@@ -11,7 +11,7 @@ pinned: false
 
 
 # Devolearn_Membrane_Segmentor_huggingface_spaces
-devolearn Membrane segmentor  model deployed in hugging face spaces using streamlit as backend.
+Devolearn Membrane segmentor  model deployed in hugging face spaces using streamlit as backend.
 Here in this model, image of c_elegans is served as input then membrane of c_elegans is segmented and parallel centroid of nucleus is extracted 
 check out model here [Membrane-Segmentor](https://huggingface.co/spaces/devoworm-group/membrane_segmentation)
 
